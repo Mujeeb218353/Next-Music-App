@@ -1,8 +1,7 @@
 import React from 'react'
-
 const Contact = () => {
   return (
-    <div>
+    <div className='bg-white min-h-screen'>
       Hello From Contact. We are working on it
     </div>
   )
