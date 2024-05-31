@@ -27,6 +27,21 @@ const nextConfig = {
             hostname: 'cdn.mos.cms.futurecdn.net',
             port: '',
           },
+          {
+            protocol: 'https',
+            hostname: 'www.eschoolnews.com',
+            port: '',
+          },
+          {
+            protocol: 'https',
+            hostname: 'www.dublincity.ie',
+            port: '',
+          },
+          {
+            protocol: 'https',
+            hostname: 'images.squarespace-cdn.com',
+            port: '',
+          },
         ],
       },
 };

@@ -42,7 +42,6 @@ const FeaturedCourses = () => {
                     height="400"
                     width="400"
                     priority={true}
-                    className="object-contain"
                   />
                   <p className="text-lg sm:text-xl text-black mt-4 mb-2 dark:text-neutral-200">
                     {course.title}
