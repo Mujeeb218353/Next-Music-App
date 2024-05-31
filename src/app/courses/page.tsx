@@ -5,7 +5,7 @@ const Courses = () => {
     <div className='bg-white min-h-screen'>
       Hello From Courses. We are working on it
     </div>
-  )
+  );
 }
 
 export default Courses;
