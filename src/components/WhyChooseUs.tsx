@@ -26,6 +26,7 @@ const musicSchoolContent = [
           alt="Interactive Learning Experience"
           fill
           sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+          priority
         />
       </div>
     ),
@@ -51,6 +52,7 @@ const musicSchoolContent = [
           alt="Expansive Resource Library"
           fill
           sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+          priority
         />
       </div>
     ),
@@ -76,6 +78,7 @@ const musicSchoolContent = [
           alt="Community Engagement"
           fill
           sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+          priority
         />
       </div>
     ),
