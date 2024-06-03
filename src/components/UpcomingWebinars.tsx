@@ -71,7 +71,7 @@ function UpcomingWebinars() {
           />
         </div>
 
-        <div className="mt-10 text-center">
+        <div className="my-4 text-center">
           <Link href={"/"}>
             <HoverBorderButton />
           </Link>

@@ -42,6 +42,11 @@ const nextConfig = {
             hostname: 'images.squarespace-cdn.com',
             port: '',
           },
+          {
+            protocol: 'https',
+            hostname: "images.unsplash.com",
+            port: '',
+          }
         ],
       },
 };
