@@ -46,7 +46,32 @@ const nextConfig = {
             protocol: 'https',
             hostname: "images.unsplash.com",
             port: '',
-          }
+          },
+          {
+            protocol: 'https',
+            hostname: "img.freepik.com",
+            port: '',
+          },
+          {
+            protocol: 'https',
+            hostname: 'drumhelper.com',
+            port: '',
+          },
+          {
+            protocol: 'https',
+            hostname: 'www.lansingstatejournal.com',
+            port: '',
+          },
+          {
+            protocol: 'https',
+            hostname: 'assets-global.website-files.com',
+            port: '',
+          },
+          {
+            protocol: 'https',
+            hostname: 'aze.media',
+            port: '',
+          },
         ],
       },
 };

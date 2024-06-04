@@ -15,7 +15,7 @@ export default function Home() {
       <MusicSchoolTestimonials/>
       <UpcomingWebinars />
       <Instructors />
-      <Footer />
+      
     </main>
   );
 }
